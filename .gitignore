@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Secrets and cloud credentials — never commit keys
+.env
+.env.*
+*.pem
+*.key
+*-key.json
+service-account*.json
+credentials.json
+application_default_credentials.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
