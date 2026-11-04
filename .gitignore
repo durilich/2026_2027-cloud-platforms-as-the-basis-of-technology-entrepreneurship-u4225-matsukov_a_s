@@ -7,6 +7,8 @@ Thumbs.db
 .vscode/
 *.swp
 *~
+*.dtmp
+.$*
 
 # Secrets and cloud credentials — never commit keys
 .env
