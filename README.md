@@ -17,6 +17,7 @@
 | Lab 1 | Обзор Google Cloud и исследование основных сервисов | [lab1/lab1_report.md](lab1/lab1_report.md) | выполнена, ждёт защиты |
 | Lab 2 | Исследование Cloud Run | [lab2/lab2_report.md](lab2/lab2_report.md) | выполнена, ждёт защиты |
 | Lab 3 | Исследование Cloud Storage | [lab3/lab3_report.md](lab3/lab3_report.md) | выполнена, ждёт защиты |
+| Lab 4 | Инфраструктура MVP AI-приложения | [lab4/lab4_report.md](lab4/lab4_report.md) | выполнена, ждёт защиты |
 
 Дата в поле `Date of finished` проставляется после защиты на паре, а не в день написания отчёта.
 
